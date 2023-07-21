@@ -1,4 +1,4 @@
-# project1_zillow: An Analysis on the Impact of Pandemic Pricing on Homes in the United States 
+# An Analysis on the Impact of Pandemic Pricing on Homes in the United States 
 
 Team Members: Daniel Gomez, Hannah Varghese, Monila Khadka, Joel Johnson, Ashley Yakopec-Ley 
 
