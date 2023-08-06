@@ -1,30 +1,48 @@
 # An Analysis on the Impact of Pandemic Pricing on Homes in the United States 
 
-Team Members: Daniel Gomez, Hannah Varghese, Monila Khadka, Joel Johnson, Ashley Yakopec-Ley 
+Our project is to analze the home market between January 2018 and July 2023. We will be using county record data from Zillow to compare home prices from different time periods (pre-pandemic, during, and post-pandemic) to understand how the housing market was impacted nation-wide. Additionally, we will analyze the differences between home sale prices and home listing prices. 
 
-Description/Outline: Our group is analyzing the home market between January 2018 and July 2023. We will be comparing home prices from different time periods (pre-pandemic, during, and post-pandemic) to understand how the housing market was impacted nation-wide. We will analyze, at a region-level, to determine how families across different cities and states in the United States were impacted differently. 
+## Time Periods:
+* Pre-Pandemic: 2018-2020
+* During Pandemic: 2020-2021
+* Post-Pandemic: 2022-2023
 
-Time Periods:
-Pre-Pandemic: 2018-2020
-During Pandemic: 2020-2021
-Post-Pandemic: 2022-2023
+## ![Slides Presentation Link](https://github.com/yakopeca/Project1/blob/main/zillowslides.pptx.pdf)
 
-Research Questions: 
-How has the housing inventory fluctuated since pre-pandemic times? 
-How has the Pandemic impacted Home Sale Prices from 2018-2023 and how have home prices changed since the beginning of the pandemic?  
-Where are the least expensive/most expensive cities to live in the United States in 2023 based on median price? 
+## Research Questions: 
+* How has the housing inventory fluctuated since pre-pandemic times?
+*  How has the Pandemic impacted Home Sale Prices from 2018-2023 and how have home prices changed since the beginning of the pandemic?
+*  Where are the least expensive/most expensive cities to live in the United States in 2023 based on median price? 
 
-Rough Breakdown of Tasks: 
-  1. Data Collection
-  2. Data Analysis
-  3. Interpretation and Visualization
+## Notebooks 
+* ![ZillowPy](https://github.com/yakopeca/Project1/blob/main/ZillowPy.ipynb) 
 
-Conclusion
-The far-reaching impact of the pandemic on home prices in the United States cannot be underestimated. The observable trend of many homebuyers securing properties below their listing prices as a result of the prevailing economic uncertainties. However, the average American is unable to afford a home and live comfortably in the United States.
-Throughout the pandemic, the housing inventory across various regions experienced fluctuations, which could be attributed to a multitude of factors. Supply chain disruptions in construction materials led to inventory surges, while lower interest rates coupled with investor interest caused periods of scarcity. The allure of these low rates also prompted families to capitalize on opportunities, driving a surge in home sales, particularly in previously overlooked rural states like Omaha, NE, and Chicago, IL.
+## Plots
+​For this project, we analyzed trends in housing listing and sales prices between the years 2018 to 2023 to see if the pandemic impacted the housing market. Our diagrams demonstrate a significant increase in housing listing and sales prices since the pandemic.​
 
-Our comprehensive analysis establishes a statistically significant correlation between the pandemic and the trajectory of home sale and listing prices. The persistent upward movement of these prices during the pandemic and its aftermath indicates transformation in the housing market. 
+![image](https://github.com/yakopeca/Project1/assets/132225987/8fde2b23-ce3d-4174-b0c2-d65167afe62a)
+![image](https://github.com/yakopeca/Project1/assets/132225987/6369df2c-c23a-4fde-a0f7-c609bdf157ea)
+![image](https://github.com/yakopeca/Project1/assets/132225987/f0832d40-50db-4cc2-b5b7-43f4dc78bc58)
+![image](https://github.com/yakopeca/Project1/assets/132225987/8f8232f9-925d-4d46-8615-1fe2c7b139d3)
+![image](https://github.com/yakopeca/Project1/assets/132225987/3c198ff5-d7ed-4b98-b815-2a9061dd63f6)
+![image](https://github.com/yakopeca/Project1/assets/132225987/47b0b675-ca06-4747-81f7-cf6bd061f8eb)
+![image](https://github.com/yakopeca/Project1/assets/132225987/0d880fb1-8abf-43a3-8796-b9a281561cbc)
+![image](https://github.com/yakopeca/Project1/assets/132225987/f5c7db5f-0953-40f7-9ca9-77765bfc3faa)
 
-One remarkable shift brought about by the pandemic is the transition of job locations. Empowered by remote work possibilities, a considerable number of individuals and families have migrated to regions offering more affordable housing and a lower cost of living. As a result, the pandemic has reshaped not only the real estate landscape but also the geographical preferences of the populace.
+## Did the Pandemic affect the Housing Market? 
+Yes! While buyers are generally still paying below asking price, the Pandemic DID affect increasing home prices. Home prices are increasing and are forecasted to continue the same path. Supply chains were impacted and left many people “waiting” for their dream home.
 
-The implications for prospective homebuyers are vast and multifaceted. Families, irrespective of their home's size, find themselves grappling with the financial implications of this shifting market. With the cost of housing becoming a large percentage of household budgets, it is evident that the pandemic's repercussions will continue to affect families for many years to come. The path towards achieving homeownership now means navigating a landscape fraught with newfound challenges.
+### Explanation
+* The Pandemic had a great impact on the housing market, causing the housing market to greatly increase in both home sales and listing prices; leaving many Americans unable to afford a new home and still live comfortably. 
+* Supply chain disruptions in construction materials led to inventory surges - Lower interest rates coupled with investor interest caused periods of scarcity.
+* Low interest rates also prompted families to capitalize on opportunities
+* Remote work opportunities led to an influx of people transitioning to new job locations, giving individuals and families have migrated to regions offering more affordable housing and a lower cost of living
+
+## Additional Research Topics
+Create Predictions: 
+* Future house prices based on the size of the house, inventories, time, etc.
+* When a homeowner is willing to put a home in the market
+
+Solve the Housing Crisis:
+* We can further use this information to find and provide Americans more affordable housing options in the United States
+* Compare median national household income with the median sales prices to see future trends in house sales
