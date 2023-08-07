@@ -47,6 +47,23 @@ Solve the Housing Crisis:
 * We can further use this information to find and provide Americans with more affordable housing options in the United States
 * Compare median national household income with the median sales prices to see future trends in house sales
 
+## Getting Started
+# Prerequsiites
+You must have Python 3 installed
+You must have Anaconda installed
+You must have Conda installed
+
+# Install Environment
+
+# Clone/Run Repository
+
+## Built With
+* Python - Programming Language
+* Pandas - Data manipulation library
+* Numpy - Multi-dimensional array library
+* Plotly - Visualization library for array plots
+* ![HVplot](https://hvplot.holoviz.org/) - Visualization lbrary for Pandas-based plots
+
 ## Authors
 * Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | GitHub
 * Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
