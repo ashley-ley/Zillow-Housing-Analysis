@@ -1,6 +1,6 @@
-# An Analysis on the Impact of Pandemic Pricing on Homes in the United States 
+# An Analysis of the Impact of Pandemic Pricing on Homes in the United States 
 
-Our project is to analze the home market between January 2018 and July 2023. We will be using county record data from Zillow to compare home prices from different time periods (pre-pandemic, during, and post-pandemic) to understand how the housing market was impacted nation-wide. Additionally, we will analyze the differences between home sale prices and home listing prices. 
+Our project is to analyze the home market between January 2018 and July 2023. We will be using county record data from Zillow to compare home prices from different time periods (pre-pandemic, during, and post-pandemic) to understand how the housing market was impacted nationwide. Additionally, we will analyze the differences between home sale prices and home listing prices. 
 
 ## Time Periods:
 * Pre-Pandemic: 2018-2020
@@ -30,19 +30,26 @@ Our project is to analze the home market between January 2018 and July 2023. We 
 ![image](https://github.com/yakopeca/Project1/assets/132225987/f5c7db5f-0953-40f7-9ca9-77765bfc3faa)
 
 ## Did the Pandemic affect the Housing Market? 
-Yes! While buyers are generally still paying below asking price, the Pandemic DID affect increasing home prices. Home prices are increasing and are forecasted to continue the same path. Supply chains were impacted and left many people “waiting” for their dream home.
+Yes! While buyers are generally still paying below asking price, the Pandemic DID affect increasing home prices. Home prices are increasing and are forecasted to continue on the same path. Supply chains were impacted and left many people “waiting” for their dream homes.
 
 ### Explanation
 * The Pandemic had a great impact on the housing market, causing the housing market to greatly increase in both home sales and listing prices; leaving many Americans unable to afford a new home and still live comfortably. 
 * Supply chain disruptions in construction materials led to inventory surges - Lower interest rates coupled with investor interest caused periods of scarcity.
 * Low interest rates also prompted families to capitalize on opportunities
-* Remote work opportunities led to an influx of people transitioning to new job locations, giving individuals and families have migrated to regions offering more affordable housing and a lower cost of living
+* Remote work opportunities led to an influx of people transitioning to new job locations, giving individuals and families migrated to regions offering more affordable housing and a lower cost of living
 
 ## Additional Research Topics
 Create Predictions: 
 * Future house prices based on the size of the house, inventories, time, etc.
-* When a homeowner is willing to put a home in the market
+* When a homeowner is willing to put a home on the market
 
 Solve the Housing Crisis:
-* We can further use this information to find and provide Americans more affordable housing options in the United States
+* We can further use this information to find and provide Americans with more affordable housing options in the United States
 * Compare median national household income with the median sales prices to see future trends in house sales
+
+## Authors
+* Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | GitHub
+* Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
+* Daniel Gomez - LinkedIn | ![GitHub](https://github.com/Danimal915)
+* Joel Johnson - ![LinkedIn](https://www.linkedin.com/in/joel-johnson-mba-123a9112b/) | ![GitHub](https://github.com/jjoel22)
+* Monila Khadka - LinkedIn | GitHub
