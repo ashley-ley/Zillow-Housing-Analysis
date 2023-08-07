@@ -65,7 +65,7 @@ You must have Conda installed
 * ![HVplot](https://hvplot.holoviz.org/) - Visualization lbrary for Pandas-based plots
 
 ## Authors
-* Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | GitHub
+* Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | ![GitHub](https://github.com/yakopeca)
 * Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
 * Daniel Gomez - LinkedIn | ![GitHub](https://github.com/Danimal915)
 * Joel Johnson - ![LinkedIn](https://www.linkedin.com/in/joel-johnson-mba-123a9112b/) | ![GitHub](https://github.com/jjoel22)
