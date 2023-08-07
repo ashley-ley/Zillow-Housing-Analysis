@@ -104,6 +104,6 @@ You must have Conda installed
 ## Authors
 * Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | ![GitHub](https://github.com/yakopeca)
 * Hannah Varghese - ![LinkedIn](https://www.linkedin.com/in/hannahvarghese/) | ![GitHub](https://github.com/hannahvarghese)
-* Daniel Gomez - LinkedIn | ![GitHub](https://github.com/Danimal915)
+* Daniel Gomez - ![LinkedIn](https://www.linkedin.com/in/daniel-gomez-1b1567287) | ![GitHub](https://github.com/Danimal915)
 * Joel Johnson - ![LinkedIn](https://www.linkedin.com/in/joel-johnson-mba-123a9112b/) | ![GitHub](https://github.com/jjoel22)
 * Monila Khadka - LinkedIn | GitHub
