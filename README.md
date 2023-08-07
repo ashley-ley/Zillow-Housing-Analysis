@@ -48,29 +48,46 @@ Solve the Housing Crisis:
 * Compare median national household income with the median sales prices to see future trends in house sales
 
 ## Getting Started
-# Prerequsiites
+### Prerequisites
 You must have Python 3 installed
+
 ```python3--version```
+
 *#EXAMPLE OUTPUT:*
+
 ```Python 3.10.8```
+
 You must have Anaconda installed
+
 ```$ anaconda --version```
+
 *#EXAMPLE OUTPUT:*
+
 ```anaconda Command line client (version 1.11.0)```
+
 You must have Conda installed
+
 ```$ conda --version```
+
 *#EXAMPLE OUTPUT:*
+
 ```conda 22.9.0```
 
-# Install Environment
+### Install Environment
 ```conda create -n ZillowPy_env python 3.7 anaconda -y```
+
 ```conda activate ZillowPy_env```
+
 ```conda install -c conda-forge pandas```
+
 ```python -m ipykernel install -- user --name ZillowPy_env```
 
-# Clone/Run Repository
+### Clone/Run Repository
+
 ```git clone git@github.com:hannahvarghese/ZillowPy.git```
+
 ```cd ZillowPy```
+
 ```jupyter lab```
 
 
