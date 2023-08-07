@@ -74,19 +74,17 @@ You must have Conda installed
 ```conda 22.9.0```
 
 ### Install Environment
-```conda create -n ZillowPy_env python 3.7 anaconda -y```
+```conda activate dev```
 
-```conda activate ZillowPy_env```
-
-```conda install -c conda-forge pandas```
-
-```python -m ipykernel install -- user --name ZillowPy_env```
+```Jupyter Lab```
 
 ### Clone/Run Repository
 
 ```git clone git@github.com:hannahvarghese/ZillowPy.git```
 
 ```cd ZillowPy```
+
+```conda activate dev```
 
 ```jupyter lab```
 
