@@ -50,19 +50,36 @@ Solve the Housing Crisis:
 ## Getting Started
 # Prerequsiites
 You must have Python 3 installed
+```python3--version```
+*#EXAMPLE OUTPUT:*
+```Python 3.10.8```
 You must have Anaconda installed
+```$ anaconda --version```
+*#EXAMPLE OUTPUT:*
+```anaconda Command line client (version 1.11.0)```
 You must have Conda installed
+```$ conda --version```
+*#EXAMPLE OUTPUT:*
+```conda 22.9.0```
 
 # Install Environment
+```conda create -n ZillowPy_env python 3.7 anaconda -y```
+```conda activate ZillowPy_env```
+```conda install -c conda-forge pandas```
+```python -m ipykernel install -- user --name ZillowPy_env```
 
 # Clone/Run Repository
+```git clone git@github.com:hannahvarghese/ZillowPy.git```
+```cd ZillowPy```
+```jupyter lab```
+
 
 ## Built With
 * Python - Programming Language
 * Pandas - Data manipulation library
 * Numpy - Multi-dimensional array library
-* Plotly - Visualization library for array plots
-* ![HVplot](https://hvplot.holoviz.org/) - Visualization lbrary for Pandas-based plots
+* SKlearn.linear_model - Linear Regression
+* ScipyStats - Statistical Analysis
 
 ## Authors
 * Ashley Ley - ![LinkedIn](https://www.linkedin.com/in/ashley-yakopec/) | ![GitHub](https://github.com/yakopeca)
