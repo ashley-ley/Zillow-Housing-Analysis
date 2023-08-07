@@ -74,6 +74,11 @@ You must have Conda installed
 ```conda 22.9.0```
 
 ### Install Environment
+
+```pip install conda```
+
+```pip install anaconda```
+
 ```conda activate dev```
 
 ```Jupyter Lab```
